@@ -33,7 +33,9 @@ This is the source code for my personal portfolio website, designed to showcase 
   - Express.js - To serve static files locally.
   - EmailJS - For the client-side contact form.
   - Git & GitHub - For version control and hosting.
-
+- **Note:**
+  - video assets are attached using links from cloudinary sevice.
+  - In deployment using services we cant upload mp4 or mp3 files.
 ---
 
 ## 🚀 Local Setup & Installation
